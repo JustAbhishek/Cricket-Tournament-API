@@ -35,4 +35,4 @@ To use the API.
 * Type npm insatll body-parser --save  
 * Create Database using SQL file  
 * Run api.js using Command node api.js  
-* Check Browser http://localhost:3300/  
+* Check Browser http://localhost:3300/Countries 
